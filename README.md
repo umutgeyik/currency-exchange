@@ -6,7 +6,7 @@ PostgreSQL and Spring JPA.
 **See also https://github.com/spring-guides/tut-spring-boot-kotlin for a more complete Spring Boot + Kotlin + JPA example.**
 
 
-##Steps for executing with Docker:
+## Steps for executing with Docker:
 
 - Clone/Download the repository.
 
@@ -29,10 +29,6 @@ After executing above steps without any errors and docker containers are up and 
 - After run the application, you can access the api specification with following url:
 
       http://localhost:8080/swagger-ui/index.html#/
-
-Run tests locally with following command:
-
-    ./gradlew clean test --info
 
 # REST API
 
